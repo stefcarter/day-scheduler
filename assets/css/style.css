@@ -1,0 +1,21 @@
+main {
+    text-align:center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    margin-top: -30px;
+}
+
+hr {
+    width: auto;
+    height: 15px;
+    background-color: black;
+}
+
+.selectEl {
+    color:yellow;
+}
