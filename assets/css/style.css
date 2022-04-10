@@ -17,6 +17,10 @@ hr {
 }
 
 #button-addon2 {
-    background-color:blue;
+    background-color:teal;
     border-radius: 0px 15px 15px 0px;
+}
+
+.container .form-control {
+    background-color: lightgray;
 }
